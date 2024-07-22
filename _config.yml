@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: '/assets/img/avatar-icon.png'
+avatar: '/assets/img/0fqhzoi8.bmp'
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,17 +50,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  linkedin: chasinggreg
   email: 'someone@example.com'
-  rss: true # remove this line if you don't want to show an RSS link at the bottom
-  #  facebook: deanattali
   github: chasinggreg
+  rss: true # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
