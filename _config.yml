@@ -96,11 +96,11 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: 'MyWebsite.com'
+url-pretty: 'chasinggreg.com'
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -139,11 +139,11 @@ text-col: '#404040'
 link-col: '#008AFF'
 hover-col: '#021D5A'
 navbar-col: '#4863A0'
-navbar-text-col: '#C0C0C0'
-navbar-children-col: '#5C77B4'
+navbar-text-col: '#FFFFFF'
+navbar-children-col: '#FFFFFF'
 navbar-border-col: '#DDDDDD'
 footer-col: '#4863A0'
-footer-text-col: '#777777'
+footer-text-col: '#FFFFFF'
 footer-link-col: '#404040'
 footer-hover-col: '#0085A1'
 
